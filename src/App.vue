@@ -46,7 +46,7 @@
       <div class="w-full h-12">
         <button class="bg-primary text-white w-60 h-12 rounded-full hover:bg-dark">Tweet</button>
       </div>
-
+ㅎ
     </div>
     <div class="flex-1 bg-red-200"></div>
   </div>
